@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.profile-image {
+
+    width: 35px;
+    height: 35px;
+}
+.profile-wrap {
+    width: 100vw;
+}
+
